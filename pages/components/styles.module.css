@@ -1,0 +1,16 @@
+@media screen and (min-width: 1200px) {
+  .menu {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .list {
+    display: none;
+  }
+  .documents {
+    display: flex;
+    justify-content: end;
+  }
+}
+

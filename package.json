@@ -1,0 +1,28 @@
+{
+  "name": "aerial-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mantine/core": "^4.2.11",
+    "@mantine/hooks": "^4.2.12",
+    "@mantine/next": "^4.2.12",
+    "next": "12.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.0.1",
+    "@types/react": "18.0.14",
+    "@types/react-dom": "18.0.5",
+    "@types/uuid": "^8.3.4",
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.0",
+    "typescript": "4.7.4"
+  }
+}
